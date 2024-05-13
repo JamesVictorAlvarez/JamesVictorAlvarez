@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **jamesvictoralvarez@gmail.com**
 
-- ⚡ Fun fact **I've been called lil bro and fun friend in different scenarios.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jv_alva_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jv_alva_" height="30" width="40" /></a>
