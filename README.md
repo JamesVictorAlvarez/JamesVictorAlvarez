@@ -17,7 +17,3 @@ Hi there 👋 I'm James!<br><br>I’m currently a 1st year computer science stud
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JamesVictorAlvarez&theme=moltack&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesVictorAlvarez&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JamesVictorAlvarez&theme=moltack&no-frame=true&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
